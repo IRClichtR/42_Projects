@@ -1,3 +1,3 @@
-[submodule "42_cpp"]
-	path = 42_cpp
-	url = git@github.com:IRClichtR/42_CPP
+#[submodule "42_cpp"]
+#	path = 42_cpp
+#	url = git@github.com:IRClichtR/42_CPP
